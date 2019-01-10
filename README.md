@@ -1,2 +1,2 @@
 # Titanic-kaggle-inferences
-Infernces regarding titanic data-set.
+This repository contains inferences made from titanic data-set.
